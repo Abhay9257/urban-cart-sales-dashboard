@@ -1,0 +1,197 @@
+﻿Order_ID,order_date,Customer_Name,Gender,Age,State,City,Product_Category,Product_Name,Quantity,Sales,Cost_Price,Profit,Payment_Mode,Delivery_Status
+ORD1001,1/14/2025,Indrans Datta,Male,41,Karnataka,Mysuru,Electronics,Smart Watch,3,"₹8,814.00",7937,₹877.00,COD,Delivered
+ORD1002,1/15/2025,Jivin Bal,Female,25,Maharashtra,Pune,Fashion,Sneakers,4,"₹6,219.00",2784,"₹3,435.00",Debit Card,Delivered
+ORD1003,1/16/2025,Tarini Thaker,Male,34,Maharashtra,Pune,Fashion,Sneakers,1,"₹3,116.00",2357,₹759.00,UPI,Delivered
+ORD1004,1/17/2025,Emir Khurana,Female,33,Rajasthan,Jodhpur,Sports,Cricket Bat,1,"₹4,814.00",2748,"₹2,066.00",Debit Card,Returned
+ORD1005,1/18/2025,Ehsaan Kurian,Female,29,Rajasthan,Jodhpur,Grocery,Green Tea,1,"₹1,227.00",821,₹406.00,UPI,Cancelled
+ORD1007,1/19/2025,Anahita Edwin,Male,24,Delhi,New Delhi,Fashion,Hoodie,1,"₹3,993.00",2260,"₹1,733.00",UPI,Delivered
+ORD1008,1/20/2025,Ela Sankar,Male,37,Karnataka,Mysuru,Electronics,Bluetooth Speaker,1,"₹6,703.00",3109,"₹3,594.00",COD,Returned
+ORD1009,1/21/2025,Seher Ravel,Female,32,Gujarat,Surat,Fashion,Sneakers,3,"₹8,163.00",5943,"₹2,220.00",UPI,Delivered
+ORD1010,1/22/2025,Rhea Dasgupta,Male,26,Rajasthan,Jodhpur,Electronics,Earbuds,3,"₹1,234.00",803,₹431.00,Debit Card,Delivered
+ORD1011,1/23/2025,Raghav Bawa,Female,33,Gujarat,Ahmedabad,Fashion,Hoodie,1,"₹5,335.00",3131,"₹2,204.00",COD,Cancelled
+ORD1012,1/24/2025,Siya Vyas,Female,43,Maharashtra,Pune,Electronics,Bluetooth Speaker,2,"₹3,096.00",1554,"₹1,542.00",Credit Card,Cancelled
+ORD1013,1/25/2025,Kismat Bala,Female,27,Gujarat,Ahmedabad,Grocery,Coffee Pack,1,"₹6,131.00",3864,"₹2,267.00",UPI,Delivered
+ORD1014,1/14/2025,Kanav Sahni,Male,45,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,1,"₹1,628.00",747,₹881.00,Debit Card,Cancelled
+ORD1015,1/15/2025,Parinaaz Iyer,Female,34,Gujarat,Ahmedabad,Electronics,Smart Watch,1,"₹4,429.00",3904,₹525.00,Debit Card,Cancelled
+ORD1016,10/25/2025,Arnav Iyengar,Female,25,Karnataka,Mysuru,Sports,Yoga Mat,4,"₹6,367.00",4167,"₹2,200.00",Credit Card,Cancelled
+ORD1017,10/26/2025,Amira Dave,Male,26,Rajasthan,Jodhpur,Fashion,Hoodie,3,"₹8,186.00",6753,"₹1,433.00",Credit Card,Returned
+ORD1018,10/27/2025,Hunar Uppal,Male,33,Gujarat,Ahmedabad,Fashion,T-Shirt,2,"₹5,520.00",3989,"₹1,531.00",COD,Returned
+ORD1019,10/28/2025,Shray Dhawan,Female,45,Rajasthan,Jodhpur,Sports,Cricket Bat,4,"₹2,871.00",2490,₹381.00,Credit Card,Delivered
+ORD1020,10/29/2025,Zara Gade,Male,40,Rajasthan,Jodhpur,Fashion,T-Shirt,4,"₹7,724.00",7329,₹395.00,Debit Card,Cancelled
+ORD1022,10/30/2025,Emir Chandran,Male,21,Rajasthan,Jaipur,Electronics,Bluetooth Speaker,4,"₹5,348.00",5101,₹247.00,Credit Card,Cancelled
+ORD1023,10/31/2025,Samarth Varma,Male,44,Gujarat,Surat,Sports,Cricket Bat,1,"₹7,149.00",5256,"₹1,893.00",COD,Delivered
+ORD1024,11/1/2025,Dhanuk Dhaliwal,Female,22,Karnataka,Bengaluru,Grocery,Coffee Pack,1,"₹7,122.00",1465,"₹5,657.00",COD,Returned
+ORD1025,11/2/2025,Samarth Varghese,Female,42,Delhi,New Delhi,Grocery,Green Tea,2,"₹1,673.00",922,₹751.00,COD,Cancelled
+ORD1026,11/3/2025,Ishita Badami,Female,25,Karnataka,Mysuru,Electronics,Bluetooth Speaker,4,"₹2,238.00",1646,₹592.00,Debit Card,deliverd
+ORD1027,11/4/2025,Sana Lall,Female,38,Rajasthan,Jaipur,Sports,Football,1,"₹9,307.00",5138,"₹4,169.00",Debit Card,Returned
+ORD1028,11/5/2025,Ela Gara,Male,23,Gujarat,Surat,Sports,Football,1,"₹6,882.00",1117,"₹5,765.00",COD,Cancelled
+ORD1029,11/6/2025,Pari Saran,Female,27,Maharashtra,Pune,Fashion,Hoodie,1,"₹5,990.00",3516,"₹2,474.00",COD,Delivered
+ORD1030,11/7/2025,Shlok Vora,Female,25,Delhi,New Delhi,Grocery,Dry Fruits,1,"₹4,802.00",4373,₹429.00,Debit Card,Cancelled
+ORD1032,11/8/2025,Bhamini Gola,Female,29,Gujarat,Surat,Electronics,Smart Watch,3,"₹9,416.00",6662,"₹2,754.00",Debit Card,Cancelled
+ORD1033,11/9/2025,Aarush Kamdar,Female,38,Delhi,New Delhi,Fashion,Sneakers,2,"₹9,069.00",7939,"₹1,130.00",Credit Card,Returned
+ORD1034,11/10/2025,Urvi Gade,Female,33,Rajasthan,Jodhpur,Sports,Yoga Mat,1,"₹5,956.00",3866,"₹2,090.00",Debit Card,Delivered
+ORD1035,11/11/2025,Anaya Kapadia,Male,30,Gujarat,Surat,Electronics,Earbuds,4,"₹4,453.00",1661,"₹2,792.00",UPI,Cancelled
+ORD1036,11/12/2025,Indrans Balakrishnan,Female,27,Rajasthan,Jaipur,Fashion,T-Shirt,2,"₹5,531.00",3800,"₹1,731.00",Credit Card,Returned
+ORD1037,11/13/2025,Ivan Sarkar,Female,20,Rajasthan,Jaipur,Sports,Yoga Mat,2,"₹1,840.00",1139,₹701.00,COD,Returned
+ORD1038,11/14/2025,Kavya Sankaran,Female,42,Karnataka,Mysuru,Electronics,Earbuds,1,"₹3,673.00",1810,"₹1,863.00",Credit Card,Returned
+ORD1039,11/15/2025,Hrishita Mahajan,Female,45,Maharashtra,Pune,Electronics,Smart Watch,1,"₹2,520.00",1474,"₹1,046.00",UPI,Returned
+ORD1040,11/16/2025,Myra Wable,Male,28,Rajasthan,Jaipur,Sports,Cricket Bat,1,"₹9,766.00",6064,"₹3,702.00",Debit Card,Cancelled
+ORD1041,11/17/2025,Amira Rao,Female,40,Gujarat,Ahmedabad,Electronics,Cricket Bat,3,"₹8,945.00",7255,"₹1,690.00",COD,Delivered
+ORD1042,11/18/2025,Tushar Raman,Female,25,Delhi,New Delhi,Grocery,Green Tea,4,"₹3,268.00",1373,"₹1,895.00",COD,Cancelled
+ORD1043,11/19/2025,Ahana Kata,Male,21,Karnataka,Bengaluru,Sports,Football,1,"₹3,868.00",2583,"₹1,285.00",UPI,Cancelled
+ORD1044,11/20/2025,Navya Setty,Male,38,Delhi,New Delhi,Grocery,Coffee Pack,1,"₹2,386.00",1479,₹907.00,Credit Card,Cancelled
+ORD1045,11/21/2025,Pihu Swaminathan,Female,40,Delhi,New Delhi,Fashion,T-Shirt,2,"₹2,725.00",1137,"₹1,588.00",UPI,Delivered
+ORD1046,11/22/2025,Samiha Divan,Male,27,Maharashtra,Mumbai,Sports,Cricket Bat,4,"₹4,537.00",1002,"₹3,535.00",Credit Card,Returned
+ORD1047,11/23/2025,Ranbir Wali,Female,42,Rajasthan,Jodhpur,Electronics,Smart Watch,4,"₹3,373.00",1812,"₹1,561.00",Credit Card,Delivered
+ORD1048,11/24/2025,Nitya Doctor,Male,38,Rajasthan,Jodhpur,Fashion,Hoodie,2,"₹5,660.00",1937,"₹3,723.00",UPI,Delivered
+ORD1049,11/25/2025,Aayush Koshy,Female,44,Karnataka,Mysuru,Fashion,Hoodie,4,"₹5,252.00",3495,"₹1,757.00",Debit Card,Returned
+ORD1050,11/26/2025,Pranay Thaker,Female,45,Karnataka,Bengaluru,Sports,Yoga Mat,1,"₹5,128.00",3956,"₹1,172.00",COD,Cancelled
+ORD1051,11/27/2025,Ehsaan Shukla,Female,37,Delhi,New Delhi,Fashion,Sneakers,3,"₹4,356.00",3714,₹642.00,UPI,Returned
+ORD1052,11/28/2025,Chirag Sarin,Female,32,Maharashtra,Pune,Fashion,T-Shirt,3,"₹8,726.00",2017,"₹6,709.00",Debit Card,Cancelled
+ORD1053,11/29/2025,Vivaan Dhar,Male,45,Delhi,New Delhi,Grocery,Green Tea,3,"₹1,985.00",1022,₹963.00,Debit Card,Cancelled
+ORD1054,11/30/2025,Miraan Tata,Female,21,Rajasthan,Jodhpur,Grocery,Dry Fruits,2,"₹2,873.00",816,"₹2,057.00",Credit Card,Cancelled
+ORD1055,12/1/2025,Indrajit Bandi,Female,35,Gujarat,Ahmedabad,Sports,Football,4,"₹3,771.00",2527,"₹1,244.00",COD,Cancelled
+ORD1056,12/2/2025,Keya Iyer,Male,34,Delhi,New Delhi,Electronics,Smart Watch,3,"₹5,986.00",3548,"₹2,438.00",Credit Card,Delivered
+ORD1057,12/3/2025,Dhanush Goyal,Male,29,Gujarat,Surat,Fashion,Hoodie,1,"₹2,700.00",2057,₹643.00,Debit Card,Delivered
+ORD1058,12/4/2025,Aaryahi Agrawal,Male,36,Delhi,New Delhi,Fashion,T-Shirt,4,"₹6,129.00",3280,"₹2,849.00",Credit Card,Delivered
+ORD1059,12/5/2025,Kartik Borah,Male,43,Rajasthan,Jodhpur,Sports,Cricket Bat,2,"₹4,889.00",4568,₹321.00,UPI,Cancelled
+ORD1060,12/6/2025,Abram Srivastava,Male,22,Delhi,New Delhi,Grocery,Dry Fruits,1,"₹1,555.00",1188,₹367.00,Credit Card,Delivered
+ORD1061,12/7/2025,Devansh Ganguly,Female,28,Rajasthan,Jodhpur,Grocery,Coffee Pack,3,"₹1,249.00",864,500.00 -₹,Credit Card,Cancelled
+ORD1062,12/8/2025,Jivin Vala,Female,33,Rajasthan,Jaipur,Electronics,Earbuds,2,"₹2,155.00",1094,"₹1,061.00",Debit Card,Cancelled
+ORD1063,12/9/2025,Urvi Sehgal,Female,35,Gujarat,Ahmedabad,Sports,Cricket Bat,4,"₹1,825.00",1386,₹439.00,UPI,Delivered
+ORD1064,12/10/2025,Amani Kothari,Male,20,Gujarat,Surat,Sports,Football,3,"₹1,536.00",706,₹830.00,Debit Card,Delivered
+ORD1065,12/11/2025,Pari Sehgal,Female,29,Karnataka,Bengaluru,Sports,Cricket Bat,3,"₹9,137.00",8501,₹636.00,UPI,Delivered
+ORD1066,12/12/2025,Dhanush Khanna,Female,37,Maharashtra,Pune,Sports,Football,3,"₹9,355.00",3104,"₹6,251.00",Debit Card,Delivered
+ORD1067,12/13/2025,Anvi Bhatt,Female,45,Delhi,New Delhi,Sports,Football,1,"₹4,238.00",1771,"₹2,467.00",Debit Card,Delivered
+ORD1068,12/14/2025,Rasha Maharaj,Female,38,Karnataka,Mysuru,Electronics,Bluetooth Speaker,4,"₹3,677.00",3251,₹426.00,Debit Card,Returned
+ORD1069,12/15/2025,Madhup Chakrabarti,Male,42,Gujarat,Ahmedabad,Fashion,Hoodie,4,"₹6,370.00",4159,"₹2,211.00",UPI,Cancelled
+ORD1070,12/16/2025,Hrishita Swaminathan,Male,27,Rajasthan,Jaipur,Sports,Football,3,"₹7,040.00",5024,"₹2,016.00",Debit Card,Delivered
+ORD1072,12/17/2025,Lakshay Balakrishnan,Female,30,Gujarat,Ahmedabad,Sports,Yoga Mat,1,"₹1,761.00",1188,₹573.00,COD,Delivered
+ORD1073,12/18/2025,Mishti Karpe,Female,33,Delhi,New Delhi,Fashion,Sneakers,4,"₹2,724.00",2225,₹499.00,COD,Delivered
+ORD1074,12/19/2025,Azad Srivastava,Male,25,Rajasthan,Jodhpur,Fashion,Sneakers,4,"₹4,339.00",1173,"₹3,166.00",UPI,Cancelled
+ORD1075,12/20/2025,Shlok Aggarwal,Male,26,Karnataka,Mysuru,Fashion,Sneakers,4,"₹7,269.00",6592,₹677.00,Credit Card,Delivered
+ORD1076,12/21/2025,Mohanlal Sabharwal,Male,38,Delhi,New Delhi,Fashion,Hoodie,4,"₹3,241.00",2365,₹876.00,UPI,Returned
+ORD1077,12/22/2025,Onkar Apte,Male,23,Gujarat,Surat,Grocery,Coffee Pack,3,"₹1,096.00",864,₹232.00,Credit Card,Cancelled
+ORD1078,12/23/2025,Prerak Kari,Female,21,Maharashtra,Mumbai,Fashion,Sneakers,3,"₹8,937.00",7577,"₹1,360.00",Credit Card,Returned
+ORD1079,12/24/2025,Arnav Dugar,Female,39,Karnataka,Mysuru,Sports,Yoga Mat,1,"₹4,383.00",1836,"₹2,547.00",COD,Cancelled
+ORD1080,12/25/2025,Biju Kadakia,Male,24,Maharashtra,Pune,Fashion,Hoodie,3,"₹2,702.00",1275,"₹1,427.00",UPI,Delivered
+ORD1081,12/26/2025,Anya Savant,Male,37,Rajasthan,Jaipur,Grocery,Coffee Pack,4,"₹2,897.00",2474,₹423.00,COD,Cancelled
+ORD1082,12/27/2025,Nitya Bir,Male,43,Gujarat,Ahmedabad,Sports,Football,1,"₹6,369.00",1440,"₹4,929.00",Debit Card,Delivered
+ORD1083,12/28/2025,Samiha Dave,Male,45,Rajasthan,Jodhpur,Electronics,Earbuds,1,"₹7,068.00",1770,"₹5,298.00",Debit Card,Cancelled
+ORD1084,12/29/2025,Purab Mallick,Female,31,Gujarat,Ahmedabad,Electronics,Earbuds,4,"₹1,001.00",754,₹247.00,COD,Returned
+ORD1085,12/30/2025,Shayak Srinivas,Female,25,Karnataka,Mysuru,Electronics,Smart Watch,2,"₹1,659.00",750,₹909.00,Credit Card,Cancelled
+ORD1086,12/31/2025,Shamik Devi,Female,22,Gujarat,Ahmedabad,Electronics,Smart Watch,3,"₹6,818.00",5202,"₹1,616.00",Debit Card,Returned
+ORD1087,1/1/2026,Reyansh Mandal,Female,41,Rajasthan,Jodhpur,Sports,Football,4,"₹9,583.00",7779,"₹1,804.00",COD,Cancelled
+ORD1088,1/2/2026,Kartik Wagle,Male,25,Rajasthan,Jaipur,Grocery,Green Tea,4,"₹4,247.00",3916,₹331.00,Debit Card,Cancelled
+ORD1089,1/3/2026,Neysa Grewal,Male,30,Maharashtra,Mumbai,Grocery,Dry Fruits,1,"₹2,248.00",741,"₹1,507.00",Credit Card,Returned
+ORD1090,1/4/2026,Badal Dhawan,Female,23,Rajasthan,Jodhpur,Electronics,Smart Watch,1,"₹5,769.00",4682,"₹1,087.00",Credit Card,Delivered
+ORD1091,1/5/2026,Dhanuk Gour,Male,22,Rajasthan,Jaipur,Sports,Yoga Mat,2,"₹6,313.00",5045,"₹1,268.00",UPI,Cancelled
+ORD1092,1/6/2026,Indrajit Sathe,Female,44,Delhi,New Delhi,Grocery,Dry Fruits,1,"₹9,889.00",9535,₹354.00,UPI,Returned
+ORD1093,1/7/2026,Neelofar Gour,Male,40,Karnataka,Mysuru,Sports,Yoga Mat,1,"₹5,142.00",3825,"₹1,317.00",UPI,Returned
+ORD1094,1/8/2026,Kiaan Goswami,Female,31,Rajasthan,Jaipur,Sports,Cricket Bat,3,"₹1,215.00",1013,₹202.00,Credit Card,Returned
+ORD1095,1/9/2026,Hrishita Saxena,Female,40,Karnataka,Mysuru,Electronics,Smart Watch,1,"₹4,547.00",2125,"₹2,422.00",UPI,Returned
+ORD1096,1/10/2026,Armaan Subramaniam,Male,44,Delhi,New Delhi,Electronics,Smart Watch,3,"₹8,171.00",3875,"₹4,296.00",UPI,Delivered
+ORD1097,1/11/2026,Stuvan Rattan,Female,33,Gujarat,Surat,Sports,Yoga Mat,2,"₹8,196.00",5402,"₹2,794.00",UPI,Cancelled
+ORD1098,1/12/2026,Neelofar Som,Male,41,Delhi,New Delhi,Electronics,Earbuds,4,"₹4,715.00",4186,₹529.00,COD,Cancelled
+ORD1099,1/13/2026,Ishaan Dave,Female,29,Rajasthan,Jaipur,Fashion,T-Shirt,2,"₹5,261.00",4454,₹807.00,Debit Card,Returned
+ORD1100,1/14/2026,Chirag Date,Male,23,Delhi,New Delhi,Grocery,Coffee Pack,2,"₹6,970.00",2171,"₹4,799.00",Credit Card,Delivered
+ORD1101,1/15/2026,Tanya Balasubramanian,Female,40,Maharashtra,Mumbai,Fashion,Hoodie,2,"₹8,353.00",4197,"₹4,156.00",COD,Returned
+ORD1102,1/16/2026,Myra Buch,Female,20,Gujarat,Ahmedabad,Sports,Football,3,"₹9,676.00",2380,"₹7,296.00",Debit Card,Returned
+ORD1103,1/17/2026,Prerak Mand,Male,24,Rajasthan,Jodhpur,Fashion,T-Shirt,1,"₹3,826.00",2924,₹902.00,UPI,Delivered
+ORD1104,1/18/2026,Vardaniya Sarraf,Male,43,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,1,"₹1,398.00",1111,₹287.00,UPI,Returned
+ORD1105,1/19/2026,Rhea Acharya,Male,30,Delhi,New Delhi,Grocery,Green Tea,2,"₹3,182.00",2327,₹855.00,UPI,Delivered
+ORD1106,1/20/2026,Amira Wagle,Female,25,Maharashtra,Mumbai,Grocery,Green Tea,4,"₹3,304.00",2727,₹577.00,UPI,Returned
+ORD1107,1/21/2026,Hazel Sachar,Male,38,Gujarat,Ahmedabad,Electronics,Bluetooth Speaker,3,"₹3,850.00",2422,"₹1,428.00",Credit Card,Returned
+ORD1108,1/22/2026,Tarini Dass,Female,21,Gujarat,Surat,Grocery,Dry Fruits,4,"₹1,054.00",731,₹323.00,Debit Card,Delivered
+ORD1109,1/23/2026,Biju Kashyap,Male,23,Delhi,New Delhi,Grocery,Dry Fruits,4,"₹8,734.00",4788,"₹3,946.00",Credit Card,Returned
+ORD1110,1/24/2026,Mishti Batta,Female,39,Maharashtra,Mumbai,Sports,Football,3,"₹7,067.00",1376,"₹5,691.00",Credit Card,Returned
+ORD1111,1/25/2026,Sara Thakur,Female,24,Gujarat,Surat,Sports,Cricket Bat,3,"₹8,124.00",3970,"₹4,154.00",UPI,Cancelled
+ORD1112,1/26/2026,Rania Shukla,Female,37,Gujarat,Surat,Sports,Football,3,"₹2,857.00",970,"₹1,887.00",Debit Card,Cancelled
+ORD1113,1/27/2026,Shray Roy,Male,37,Karnataka,Mysuru,Grocery,Coffee Pack,2,"₹4,424.00",1614,"₹2,810.00",Credit Card,Cancelled
+ORD1114,1/28/2026,Aradhya Gole,Male,41,Rajasthan,Jaipur,Electronics,Earbuds,2,"₹1,355.00",991,₹364.00,Debit Card,Delivered
+ORD1115,1/29/2026,Faiyaz Khosla,Female,43,Delhi,New Delhi,Sports,Cricket Bat,4,"₹4,509.00",1086,"₹3,423.00",Debit Card,Delivered
+ORD1116,1/30/2026,Samaira Bora,Female,30,Maharashtra,Pune,Fashion,Hoodie,3,"₹4,806.00",2893,"₹1,913.00",Credit Card,Returned
+ORD1117,1/31/2026,Sara Bhatia,Male,41,Rajasthan,Jodhpur,Grocery,Coffee Pack,4,"₹5,801.00",4524,"₹1,277.00",Credit Card,Delivered
+ORD1118,2/1/2026,Samar Rau,Female,24,Maharashtra,Mumbai,Fashion,Hoodie,2,"₹4,385.00",2663,"₹1,722.00",COD,Returned
+ORD1119,2/2/2026,Taimur Bumb,Female,45,Delhi,New Delhi,Grocery,Coffee Pack,3,"₹4,312.00",870,"₹3,442.00",COD,Cancelled
+ORD1120,2/3/2026,Gatik Soman,Male,38,Gujarat,Ahmedabad,Sports,Football,1,"₹4,482.00",3281,"₹1,201.00",Debit Card,Cancelled
+ORD1121,2/4/2026,Vihaan Wali,Female,28,Delhi,New Delhi,Sports,Football,2,"₹4,899.00",2628,"₹2,271.00",COD,Returned
+ORD1122,2/5/2026,Divij Bhagat,Male,37,Gujarat,Surat,Sports,Cricket Bat,3,"₹9,874.00",4375,"₹5,499.00",UPI,Cancelled
+ORD1123,2/6/2026,Uthkarsh Sami,Male,36,Rajasthan,Jodhpur,Electronics,Bluetooth Speaker,3,"₹5,538.00",4961,₹577.00,Debit Card,Delivered
+ORD1124,2/7/2026,Azad Thakkar,Female,28,Gujarat,Ahmedabad,Electronics,Earbuds,1,"₹2,255.00",823,"₹1,432.00",COD,Cancelled
+ORD1125,2/8/2026,Ojas Handa,Male,32,Maharashtra,Mumbai,Fashion,Sneakers,3,"₹6,863.00",3611,"₹3,252.00",COD,Delivered
+ORD1126,2/9/2026,Kartik Din,Male,33,Rajasthan,Jaipur,Sports,Yoga Mat,2,"₹7,769.00",6027,"₹1,742.00",Debit Card,Returned
+ORD1127,2/10/2026,Dishani Bava,Female,34,Maharashtra,Pune,Fashion,Hoodie,4,"₹5,859.00",3365,"₹2,494.00",UPI,Returned
+ORD1128,2/11/2026,Divij Upadhyay,Female,37,Delhi,New Delhi,Sports,Yoga Mat,4,"₹7,297.00",2798,"₹4,499.00",COD,Cancelled
+ORD1129,2/12/2026,Mahika Sabharwal,Male,20,Karnataka,Mysuru,Fashion,Sneakers,3,"₹4,526.00",2861,"₹1,665.00",UPI,Returned
+ORD1130,2/13/2026,Zaina Karan,Male,33,Delhi,New Delhi,Electronics,Earbuds,4,"₹1,309.00",753,₹556.00,Credit Card,Returned
+ORD1131,2/14/2026,Drishya Barad,Female,25,Karnataka,Bengaluru,Electronics,Bluetooth Speaker,2,"₹7,151.00",1916,"₹5,235.00",UPI,Cancelled
+ORD1132,2/15/2026,Zain Korpal,Female,43,Karnataka,Bengaluru,Grocery,Coffee Pack,1,"₹1,408.00",998,₹410.00,Credit Card,Delivered
+ORD1133,2/16/2026,Hazel Khurana,Female,24,Maharashtra,Pune,Grocery,Green Tea,4,"₹4,488.00",856,"₹3,632.00",UPI,Returned
+ORD1134,2/17/2026,Gokul Lad,Female,43,Gujarat,Surat,Sports,Yoga Mat,1,"₹2,424.00",2098,₹326.00,Credit Card,Cancelled
+ORD1135,2/18/2026,Ivan Sibal,Male,26,Gujarat,Surat,Grocery,Green Tea,2,"₹3,819.00",1786,"₹2,033.00",Debit Card,Cancelled
+ORD1136,2/19/2026,Onkar Bumb,Male,37,Gujarat,Ahmedabad,Fashion,Sneakers,4,"₹9,335.00",3000,"₹6,335.00",COD,Cancelled
+ORD1137,2/20/2026,Hridaan Swamy,Male,32,Gujarat,Surat,Sports,Cricket Bat,2,"₹7,091.00",2677,"₹4,414.00",COD,Cancelled
+ORD1138,2/21/2026,Vanya Gill,Male,39,Delhi,New Delhi,Fashion,Hoodie,3,"₹3,291.00",2577,₹714.00,Debit Card,Cancelled
+ORD1139,2/22/2026,Riaan Borde,Female,38,Rajasthan,Jaipur,Sports,Cricket Bat,2,"₹5,758.00",1492,"₹4,266.00",UPI,Cancelled
+ORD1140,2/23/2026,Dharmajan Iyengar,Female,41,Karnataka,Mysuru,Grocery,Dry Fruits,3,"₹1,204.00",746,₹458.00,Credit Card,Delivered
+ORD1141,2/24/2026,Gatik Tara,Male,33,Gujarat,Surat,Electronics,Bluetooth Speaker,1,"₹4,364.00",1009,"₹3,355.00",Credit Card,Delivered
+ORD1142,2/25/2026,Vaibhav Cheema,Male,36,Rajasthan,Jaipur,Grocery,Dry Fruits,3,"₹4,064.00",2641,"₹1,423.00",COD,Cancelled
+ORD1143,2/26/2026,Samarth Deshpande,Female,24,Delhi,New Delhi,Electronics,Smart Watch,2,"₹3,373.00",2387,₹986.00,Debit Card,Delivered
+ORD1144,2/27/2026,Vritika Gera,Female,20,Rajasthan,Jodhpur,Fashion,Sneakers,4,"₹7,744.00",6273,"₹1,471.00",Credit Card,Delivered
+ORD1145,2/28/2026,Pihu Bedi,Male,36,Maharashtra,Pune,Fashion,Sneakers,1,"₹7,863.00",7098,₹765.00,Debit Card,Returned
+ORD1146,3/1/2026,Bhamini Jain,Male,42,Rajasthan,Jodhpur,Electronics,Smart Watch,1,"₹5,391.00",2596,"₹2,795.00",Debit Card,Cancelled
+ORD1147,3/2/2026,Indranil Gopal,Female,27,Gujarat,Surat,Sports,Cricket Bat,4,"₹6,024.00",2218,"₹3,806.00",UPI,Returned
+ORD1148,3/3/2026,Sahil Sama,Female,21,Delhi,New Delhi,Fashion,Hoodie,2,"₹7,987.00",1579,"₹6,408.00",COD,Delivered
+ORD1149,3/4/2026,Jivin Dara,Female,29,Karnataka,Bengaluru,Grocery,Coffee Pack,1,"₹8,209.00",4937,"₹3,272.00",UPI,Delivered
+ORD1150,3/5/2026,Ishita Dora,Female,45,Rajasthan,Jodhpur,Fashion,Hoodie,3,"₹8,162.00",4684,"₹3,478.00",COD,Cancelled
+ORD1151,3/6/2026,Vritika Dhaliwal,Female,22,Rajasthan,Jaipur,Electronics,Smart Watch,2,"₹9,286.00",1268,"₹8,018.00",UPI,Returned
+ORD1152,3/7/2026,Dhruv Buch,Male,37,Maharashtra,Pune,Grocery,Green Tea,2,"₹5,314.00",818,"₹4,496.00",Debit Card,Delivered
+ORD1153,3/8/2026,Lavanya Kakar,Male,29,Karnataka,Mysuru,Electronics,Bluetooth Speaker,2,"₹4,834.00",833,"₹4,001.00",Credit Card,Delivered
+ORD1154,3/9/2026,Sumer Gill,Female,26,Gujarat,Surat,Sports,Football,1,"₹7,996.00",5209,"₹2,787.00",UPI,Delivered
+ORD1155,3/10/2026,Riaan Tank,Male,40,Rajasthan,Jaipur,Sports,Football,2,"₹9,502.00",4346,"₹5,156.00",UPI,Delivered
+ORD1156,3/11/2026,Arhaan Bhatia,Male,44,Maharashtra,Mumbai,Fashion,Sneakers,4,"₹5,523.00",2925,"₹2,598.00",Credit Card,Returned
+ORD1157,3/12/2026,Pari Toor,Female,44,Maharashtra,Pune,Grocery,Dry Fruits,1,"₹4,832.00",3176,"₹1,656.00",Credit Card,Cancelled
+ORD1158,3/13/2026,Drishya Ray,Female,31,Maharashtra,Mumbai,Fashion,T-Shirt,2,"₹5,220.00",4013,"₹1,207.00",Credit Card,Returned
+ORD1159,3/14/2026,Zain Sibal,Female,23,Delhi,New Delhi,Fashion,Sneakers,2,"₹5,052.00",2469,"₹2,583.00",COD,Cancelled
+ORD1160,3/15/2026,Shlok Mann,Male,24,Gujarat,Surat,Electronics,Smart Watch,4,"₹9,489.00",5752,"₹3,737.00",UPI,Returned
+ORD1161,3/16/2026,Veer Virk,Female,30,Delhi,New Delhi,Electronics,Smart Watch,3,"₹4,043.00",781,"₹3,262.00",Credit Card,Delivered
+ORD1162,3/17/2026,Kashvi Dora,Female,36,Gujarat,Ahmedabad,Sports,Football,4,"₹6,259.00",3371,"₹2,888.00",COD,Delivered
+ORD1163,3/18/2026,Yashvi Desai,Female,25,Delhi,New Delhi,Fashion,T-Shirt,1,"₹2,143.00",1810,₹333.00,Debit Card,Returned
+ORD1164,3/19/2026,Stuvan Tella,Female,42,Gujarat,Surat,Electronics,Bluetooth Speaker,2,"₹4,909.00",3119,"₹1,790.00",COD,Cancelled
+ORD1165,3/20/2026,Ivana Sem,Female,20,Rajasthan,Jaipur,Grocery,Green Tea,2,"₹4,278.00",904,"₹3,374.00",Credit Card,Delivered
+ORD1166,3/21/2026,Zaina Magar,Male,27,Gujarat,Surat,Grocery,Coffee Pack,4,"₹3,028.00",2696,₹332.00,COD,Delivered
+ORD1167,3/22/2026,Adira Suri,Male,33,Delhi,New Delhi,Electronics,Earbuds,2,"₹9,406.00",9144,₹262.00,Credit Card,Cancelled
+ORD1168,3/23/2026,Gokul Desai,Male,20,Karnataka,Mysuru,Grocery,Green Tea,4,"₹7,364.00",6949,₹415.00,UPI,Cancelled
+ORD1169,3/24/2026,Vaibhav Brahmbhatt,Female,30,Delhi,New Delhi,Sports,Football,3,"₹2,107.00",1770,₹337.00,COD,Delivered
+ORD1170,3/25/2026,Charvi Rout,Male,45,Maharashtra,Mumbai,Electronics,Earbuds,3,"₹7,682.00",3348,"₹4,334.00",Debit Card,Returned
+ORD1171,3/26/2026,Nehmat Bansal,Male,33,Delhi,New Delhi,Fashion,Sneakers,2,"₹1,785.00",1266,₹519.00,Debit Card,Delivered
+ORD1172,3/27/2026,Tiya Dave,Female,44,Rajasthan,Jodhpur,Grocery,Dry Fruits,2,"₹4,063.00",3252,₹811.00,Credit Card,Delivered
+ORD1173,3/28/2026,Zeeshan Lall,Female,35,Karnataka,Mysuru,Electronics,Smart Watch,2,"₹4,042.00",1430,"₹2,612.00",UPI,Cancelled
+ORD1174,3/29/2026,Kimaya Chaudry,Female,28,Gujarat,Surat,Electronics,Earbuds,2,"₹7,651.00",6466,"₹1,185.00",COD,Returned
+ORD1175,3/30/2026,Ishita Zachariah,Female,23,Gujarat,Surat,Grocery,Coffee Pack,4,"₹6,566.00",2204,"₹4,362.00",COD,Returned
+ORD1176,3/31/2026,Nayantara Kaul,Female,29,Maharashtra,Pune,Grocery,Green Tea,1,"₹9,816.00",4351,"₹5,465.00",UPI,Returned
+ORD1177,4/1/2026,Rasha Gupta,Male,23,Maharashtra,Mumbai,Sports,Yoga Mat,4,"₹9,545.00",8478,"₹1,067.00",UPI,Returned
+ORD1178,4/2/2026,Aradhya Sharma,Male,35,Delhi,New Delhi,Fashion,T-Shirt,3,"₹4,629.00",2698,"₹1,931.00",Debit Card,Cancelled
+ORD1179,4/3/2026,Badal Swamy,Male,37,Rajasthan,Jodhpur,Sports,Football,1,"₹1,247.00",861,₹386.00,Debit Card,Cancelled
+ORD1180,4/4/2026,Anaya Soman,Female,43,Delhi,New Delhi,Sports,Yoga Mat,1,"₹1,930.00",900,"₹1,030.00",UPI,Delivered
+ORD1181,4/5/2026,Nirvaan Golla,Male,34,Delhi,New Delhi,Fashion,Hoodie,4,"₹1,110.00",703,₹407.00,COD,Cancelled
+ORD1182,4/6/2026,Mannat Andra,Male,41,Gujarat,Ahmedabad,Fashion,Sneakers,3,"₹8,297.00",6402,"₹1,895.00",UPI,Cancelled
+ORD1183,4/7/2026,Kavya Kumer,Female,28,Karnataka,Bengaluru,Sports,Yoga Mat,4,"₹9,740.00",2308,"₹7,432.00",UPI,Cancelled
+ORD1184,4/8/2026,Nishith Dugal,Female,22,Gujarat,Surat,Sports,Cricket Bat,4,"₹1,421.00",860,₹561.00,Credit Card,Delivered
+ORD1185,4/9/2026,Aniruddh Dave,Male,23,Rajasthan,Jaipur,Grocery,Green Tea,3,"₹4,607.00",3956,₹651.00,Debit Card,Returned
+ORD1186,4/10/2026,Aradhya Sehgal,Male,35,Rajasthan,Jodhpur,Sports,Cricket Bat,3,"₹6,107.00",5793,₹314.00,Credit Card,Delivered
+ORD1187,4/11/2026,Madhav Kadakia,Female,40,Karnataka,Bengaluru,Sports,Football,3,"₹8,583.00",7312,"₹1,271.00",Credit Card,Returned
+ORD1188,4/12/2026,Ryan Chakrabarti,Male,36,Rajasthan,Jodhpur,Electronics,Smart Watch,1,"₹5,691.00",4599,"₹1,092.00",COD,Cancelled
+ORD1189,4/13/2026,Heer Kalita,Female,41,Rajasthan,Jodhpur,Electronics,Smart Watch,4,"₹5,969.00",2870,"₹3,099.00",Debit Card,Returned
+ORD1190,4/14/2026,Aarav Anand,Female,41,Delhi,New Delhi,Electronics,Smart Watch,4,"₹9,145.00",2628,"₹6,517.00",UPI,Delivered
+ORD1191,4/15/2026,Jhanvi Ganguly,Female,33,Rajasthan,Jodhpur,Sports,Football,3,"₹1,444.00",983,₹461.00,Credit Card,Cancelled
+ORD1192,4/16/2026,Manjari Raj,Female,28,Karnataka,Bengaluru,Electronics,Smart Watch,4,"₹3,457.00",3017,₹440.00,Credit Card,Delivered
+ORD1193,4/17/2026,Seher Acharya,Female,34,Karnataka,Bengaluru,Electronics,Bluetooth Speaker,1,"₹7,589.00",2514,"₹5,075.00",UPI,Returned
+ORD1194,4/18/2026,Neelofar Sidhu,Male,45,Gujarat,Ahmedabad,Grocery,Green Tea,4,"₹9,812.00",2636,"₹7,176.00",COD,Delivered
+ORD1195,4/19/2026,Dhruv Ram,Male,34,Delhi,New Delhi,Electronics,Earbuds,4,"₹3,941.00",1709,"₹2,232.00",COD,Delivered
+ORD1196,4/20/2026,Raghav Bawa,Female,42,Karnataka,Bengaluru,Electronics,Smart Watch,3,"₹3,786.00",838,"₹2,948.00",Credit Card,Delivered
+ORD1197,4/21/2026,Ojas Chacko,Male,42,Maharashtra,Pune,Fashion,T-Shirt,2,"₹5,123.00",2107,"₹3,016.00",COD,Cancelled
+ORD1198,4/22/2026,Vanya Kadakia,Female,35,Rajasthan,Jodhpur,Sports,Yoga Mat,4,"₹4,432.00",1910,"₹2,522.00",COD,Cancelled
+ORD1199,4/23/2026,Bhavin Sastry,Male,21,Rajasthan,Jodhpur,Grocery,Green Tea,2,"₹6,609.00",1711,"₹4,898.00",COD,Returned
+ORD1200,4/24/2026,Suhana Mall,Female,32,Gujarat,Ahmedabad,Electronics,Earbuds,3,"₹7,639.00",1692,"₹5,947.00",Debit Card,Returned
